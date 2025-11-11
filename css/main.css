@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.navbar {
+  background-color: #c85931;
+}
+
+.card {
+  border: 1px solid #e1a367;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  background-color: #e4cca4;
+  color: #c85931;
+}
+
+body {
+  background-color: #e4cca4;
+  color: #4c1d17;
+}
+
+/*# sourceMappingURL=main.css.map */
